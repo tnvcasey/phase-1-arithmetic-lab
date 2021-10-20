@@ -1,2 +1,12 @@
-
-// Write your code here
+let multiply = 62; 
+let num1 = 2;
+let num2 = 31;
+num1 * num2; 
+let random = 1; 
+Math.floor(Math.random() * 100) + 1; 
+let mod = 4; 
+let num3 = 40; 
+let num4 = 12; 
+num3 % num4; 
+let max = 20; 
+Math.max(3, 5, 8, 11, 20); 
